@@ -1,5 +1,3 @@
-# 📱 App Insights Unlocked: A Data Analytics Challenge  
-
 ## 🔍 Project Overview  
 This project focuses on analyzing the **Google Play Store Apps Dataset** to discover insights that can help improve app development strategies, marketing, and user engagement.  
 The goal was to understand what factors contribute to **high app ratings, installs, and popularity**.  
